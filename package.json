@@ -1,5 +1,18 @@
 {
   "dependencies": {
-    "cross-fetch": "^3.1.5"
-  }
+    "cross-fetch": "^3.1.5",
+    "dotenv": "^16.0.2"
+  },
+  "devDependencies": {
+    "dotenv-webpack": "^2.0.0"
+  },
+  "name": "testurl",
+  "description": "script that fetches response from mailgun.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
